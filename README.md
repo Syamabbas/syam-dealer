@@ -18,9 +18,10 @@ This system is an example for dealer website with some fitures like :
 ## Requirement
 1. Xampp PHP
 2. Database MySQL
-3. Bahasa Pemrograman PHP
-4. Browser Versi Terbaru
-5. Text Editor Versi Terbaru
+3. Language programming (HTML, CSS, PHP)
+4. Browser
+5. Text Editor
+6. Other stuff (bootstrap, datatables, font awesome)
 
 ## Installation
 First, make a database called by <kbd>php_crud</kbd>. After that import the tables with the extension file <kbd>.sql</kbd>. and dont forget to edit file <kbd>db_conn.php</kbd> 
